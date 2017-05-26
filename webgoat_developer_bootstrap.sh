@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#test
 # Bootstrap the setup of WebGoat for developer use in Linux and Mac machines
 # This script will clone the necessary git repositories, call the maven goals
 # in the order the are needed and launch tomcat listening on localhost:8080
